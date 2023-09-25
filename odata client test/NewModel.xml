@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<edmx:Edmx Version="4.0" xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx">
+	<edmx:DataServices>
+		<Schema Namespace="Microsoft.NAV" xmlns="http://docs.oasis-open.org/odata/ns/edm">
+			<!-- Entity Type Definition -->
+			<EntityType Name="externalbusinesseventdefinitions">
+				<Key>
+					<PropertyRef Name="appId" />
+					<PropertyRef Name="name" />
+					<PropertyRef Name="eventVersion" />
+				</Key>
+				<Property Name="appId" Type="Edm.Guid" Nullable="false" />
+				<Property Name="name" Type="Edm.String" Nullable="false" MaxLength="80" />
+				<Property Name="payload" Type="Edm.String" Nullable="false" />
+				<Property Name="displayName" Type="Edm.String" MaxLength="250" />
+				<Property Name="description" Type="Edm.String" MaxLength="1024" />
+				<Property Name="category" Type="Edm.String" MaxLength="250" />
+				<Property Name="appName" Type="Edm.String" MaxLength="250" />
+				<Property Name="appPublisher" Type="Edm.String" MaxLength="250" />
+				<Property Name="appVersion" Type="Edm.String" MaxLength="43" />
+				<Property Name="eventVersion" Type="Edm.String" MaxLength="43" />
+			</EntityType>
+
+			<!-- Entity Container Definition -->
+			<EntityContainer Name="NAV">
+				<EntitySet Name="externalbusinesseventdefinitions" EntityType="Microsoft.NAV.externalbusinesseventdefinitions" />
+			</EntityContainer>
+		</Schema>
+	</edmx:DataServices>
+</edmx:Edmx>

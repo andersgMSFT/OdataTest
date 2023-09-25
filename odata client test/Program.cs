@@ -10,6 +10,10 @@ namespace odata_client_test
     {
         static void Main(string[] args)
         {
+            OdataClient client = new OdataClient();
+            client.SendRequestTest();
+
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/odata client test/bin/Debug/Microsoft.OData.Client.dll
+/odata client test/bin/Debug/Microsoft.OData.Client.xml
+/odata client test/bin/Debug/NewModel.xml
+/odata client test/bin/Debug/odata client test.exe
+/odata client test/bin/Debug/odata client test.pdb
+/odata client test/bin/Debug/OldModel.xml
+/odata client test/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/odata client test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/odata client test/obj/Debug/odata client test.csproj.AssemblyReference.cache
+/odata client test/obj/Debug/odata client test.csproj.CoreCompileInputs.cache
+/odata client test/obj/Debug/odata client test.csproj.FileListAbsolute.txt
+/odata client test/obj/Debug/odata client test.exe
+/odata client test/obj/Debug/odata client test.pdb
+/packages
