@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="4.0" xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx">
+	<edmx:DataServices>
+		<Schema Namespace="Microsoft.NAV" xmlns="http://docs.oasis-open.org/odata/ns/edm">
+			<EntityType Name="externaleventsubscriptions">
+				<Key>
+					<PropertyRef Name="id" />
+				</Key>
+				<Property Name="id" Type="Edm.Guid" Nullable="false" />
+				<Property Name="timestamp" Type="Edm.Int64" />
+				<Property Name="appId" Type="Edm.Guid" />
+				<Property Name="eventName" Type="Edm.String" MaxLength="50" />
+				<Property Name="companyName" Type="Edm.String" MaxLength="30" />
+				<Property Name="userId" Type="Edm.Guid" />
+				<Property Name="notificationUrl" Type="Edm.String" MaxLength="2048" />
+				<Property Name="lastModifiedDateTime" Type="Edm.DateTimeOffset" />
+				<Property Name="clientState" Type="Edm.String" MaxLength="2048" />
+				<Property Name="subscriptionType" Type="Edm.String" />
+				<Property Name="systemCreatedAt" Type="Edm.DateTimeOffset" />
+				<Property Name="systemCreatedBy" Type="Edm.Guid" />
+				<Property Name="systemModifiedAt" Type="Edm.DateTimeOffset" />
+				<Property Name="systemModifiedBy" Type="Edm.Guid" />
+			</EntityType>
+			<EntityContainer Name="NAV">
+				<EntitySet Name="externaleventsubscriptions" EntityType="Microsoft.NAV.externaleventsubscriptions" />
+			</EntityContainer>
+		</Schema>
+	</edmx:DataServices>
+</edmx:Edmx>

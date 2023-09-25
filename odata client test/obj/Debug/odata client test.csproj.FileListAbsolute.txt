@@ -1,0 +1,32 @@
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\odata client test.exe.config
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\odata client test.exe
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\odata client test.pdb
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\Microsoft.Spatial.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Buffers.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Memory.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Text.Json.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.ValueTuple.dll
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\Microsoft.Spatial.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Buffers.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Memory.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Text.Json.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\bin\Debug\System.ValueTuple.xml
+C:\Users\andersg\source\repos\odata client test\odata client test\obj\Debug\odata client test.csproj.AssemblyReference.cache
+C:\Users\andersg\source\repos\odata client test\odata client test\obj\Debug\odata client test.csproj.CoreCompileInputs.cache
+C:\Users\andersg\source\repos\odata client test\odata client test\obj\Debug\odata client test.csproj.CopyComplete
+C:\Users\andersg\source\repos\odata client test\odata client test\obj\Debug\odata client test.exe
+C:\Users\andersg\source\repos\odata client test\odata client test\obj\Debug\odata client test.pdb
